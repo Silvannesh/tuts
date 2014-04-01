@@ -1,0 +1,5 @@
+E:\M10266-0331\Tuts\2ndDayConApp\bin\Debug\2ndDayConApp.exe
+E:\M10266-0331\Tuts\2ndDayConApp\bin\Debug\2ndDayConApp.pdb
+E:\M10266-0331\Tuts\2ndDayConApp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\M10266-0331\Tuts\2ndDayConApp\obj\x86\Debug\2ndDayConApp.exe
+E:\M10266-0331\Tuts\2ndDayConApp\obj\x86\Debug\2ndDayConApp.pdb
