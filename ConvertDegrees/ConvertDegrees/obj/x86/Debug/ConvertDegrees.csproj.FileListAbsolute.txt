@@ -1,0 +1,5 @@
+E:\M10266-0331\ConvertDegrees\ConvertDegrees\bin\Debug\ConvertDegrees.exe
+E:\M10266-0331\ConvertDegrees\ConvertDegrees\bin\Debug\ConvertDegrees.pdb
+E:\M10266-0331\ConvertDegrees\ConvertDegrees\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\M10266-0331\ConvertDegrees\ConvertDegrees\obj\x86\Debug\ConvertDegrees.exe
+E:\M10266-0331\ConvertDegrees\ConvertDegrees\obj\x86\Debug\ConvertDegrees.pdb
