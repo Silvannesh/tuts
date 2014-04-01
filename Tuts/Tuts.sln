@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2ndDayConApp", "2ndDayConApp\2ndDayConApp.csproj", "{DA941FA6-1566-490B-9A1F-03432B028161}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meths", "Meths\Meths.csproj", "{C8E3B5F9-F5BD-4379-B35B-434BE7F0E83D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{DA941FA6-1566-490B-9A1F-03432B028161}.Debug|x86.Build.0 = Debug|x86
 		{DA941FA6-1566-490B-9A1F-03432B028161}.Release|x86.ActiveCfg = Release|x86
 		{DA941FA6-1566-490B-9A1F-03432B028161}.Release|x86.Build.0 = Release|x86
+		{C8E3B5F9-F5BD-4379-B35B-434BE7F0E83D}.Debug|x86.ActiveCfg = Debug|x86
+		{C8E3B5F9-F5BD-4379-B35B-434BE7F0E83D}.Debug|x86.Build.0 = Debug|x86
+		{C8E3B5F9-F5BD-4379-B35B-434BE7F0E83D}.Release|x86.ActiveCfg = Release|x86
+		{C8E3B5F9-F5BD-4379-B35B-434BE7F0E83D}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

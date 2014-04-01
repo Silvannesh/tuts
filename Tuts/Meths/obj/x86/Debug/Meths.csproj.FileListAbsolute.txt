@@ -1,0 +1,5 @@
+E:\M10266-0331\Tuts\Meths\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\M10266-0331\Tuts\Meths\bin\Debug\Meths.exe
+E:\M10266-0331\Tuts\Meths\bin\Debug\Meths.pdb
+E:\M10266-0331\Tuts\Meths\obj\x86\Debug\Meths.exe
+E:\M10266-0331\Tuts\Meths\obj\x86\Debug\Meths.pdb

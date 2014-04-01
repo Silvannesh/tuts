@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ConvertDegrees")]
+[assembly: AssemblyTitle("Meths")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ConvertDegrees")]
+[assembly: AssemblyProduct("Meths")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("275e2a8f-3b34-4fdc-be6e-f2f0e09cef29")]
+[assembly: Guid("4a4161bb-1a0c-482c-aeb4-777614e0eaad")]
 
 // Version information for an assembly consists of the following four values:
 //

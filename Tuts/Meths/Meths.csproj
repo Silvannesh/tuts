@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{52A66264-8B5B-46C5-AB54-155C9DF0BCE1}</ProjectGuid>
+    <ProjectGuid>{C8E3B5F9-F5BD-4379-B35B-434BE7F0E83D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ConvertDegrees</RootNamespace>
-    <AssemblyName>ConvertDegrees</AssemblyName>
+    <RootNamespace>Meths</RootNamespace>
+    <AssemblyName>Meths</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
