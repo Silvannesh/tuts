@@ -3,8 +3,3 @@ E:\M10266-0331\IntoToBin\IntoToBin\bin\Debug\IntoToBin.exe
 E:\M10266-0331\IntoToBin\IntoToBin\bin\Debug\IntoToBin.pdb
 E:\M10266-0331\IntoToBin\IntoToBin\obj\x86\Debug\IntoToBin.exe
 E:\M10266-0331\IntoToBin\IntoToBin\obj\x86\Debug\IntoToBin.pdb
-E:\M10266-0331\Labs\IntoToBin\bin\Debug\IntoToBin.exe
-E:\M10266-0331\Labs\IntoToBin\bin\Debug\IntoToBin.pdb
-E:\M10266-0331\Labs\IntoToBin\obj\x86\Debug\ResolveAssemblyReference.cache
-E:\M10266-0331\Labs\IntoToBin\obj\x86\Debug\IntoToBin.exe
-E:\M10266-0331\Labs\IntoToBin\obj\x86\Debug\IntoToBin.pdb
