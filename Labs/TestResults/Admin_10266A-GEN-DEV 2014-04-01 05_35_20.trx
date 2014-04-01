@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="24523331-da8a-4060-a72b-0f884d8fb596" name="Admin@10266A-GEN-DEV 2014-04-01 05:35:20" runUser="10266A-GEN-DEV\Admin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="e766a551-b7e3-44f1-af57-8d0863b56c60">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Admin_10266A-GEN-DEV 2014-04-01 05_35_20">
+      <DeploymentItem filename="E:\M10266-0331\Labs\MethsAndUnits\bin\Debug\MethsAndUnits.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-04-01T05:35:20.6009922-07:00" queuing="2014-04-01T05:35:23.8304844-07:00" start="2014-04-01T05:35:24.4330235-07:00" finish="2014-04-01T05:35:26.5404454-07:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="FindDelimTest" storage="e:\m10266-0331\labs\labsunittests\bin\debug\labsunittests.dll" id="8ba7b220-a858-ac66-adc2-6be43a932cd2">
+      <Execution id="54f5dccd-076f-4a15-9c04-a81020e08e6f" />
+      <TestMethod codeBase="E:/M10266-0331/Labs/LabsUnitTests/bin/Debug/LabsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LabsUnitTests.UnitTests, LabsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FindDelimTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="8ba7b220-a858-ac66-adc2-6be43a932cd2" executionId="54f5dccd-076f-4a15-9c04-a81020e08e6f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="54f5dccd-076f-4a15-9c04-a81020e08e6f" testId="8ba7b220-a858-ac66-adc2-6be43a932cd2" testName="FindDelimTest" computerName="10266A-GEN-DEV" duration="00:00:00.1374295" startTime="2014-04-01T05:35:24.5990391-07:00" endTime="2014-04-01T05:35:26.1390782-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="54f5dccd-076f-4a15-9c04-a81020e08e6f">
+      <Output>
+        <StdOut>B&gt;A
+A = 35, B = 21; Res: 14
+A = 21, B = 14; Res: 7</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

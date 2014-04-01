@@ -1,0 +1,7 @@
+E:\M10266-0331\Labs\LabsUnitTests\obj\Debug\ResolveAssemblyReference.cache
+E:\M10266-0331\Labs\LabsUnitTests\bin\Debug\LabsUnitTests.dll
+E:\M10266-0331\Labs\LabsUnitTests\bin\Debug\LabsUnitTests.pdb
+E:\M10266-0331\Labs\LabsUnitTests\bin\Debug\MethsAndUnits.exe
+E:\M10266-0331\Labs\LabsUnitTests\bin\Debug\MethsAndUnits.pdb
+E:\M10266-0331\Labs\LabsUnitTests\obj\Debug\LabsUnitTests.dll
+E:\M10266-0331\Labs\LabsUnitTests\obj\Debug\LabsUnitTests.pdb

@@ -1,0 +1,5 @@
+E:\M10266-0331\Labs\MethsAndUnits\bin\Debug\MethsAndUnits.exe
+E:\M10266-0331\Labs\MethsAndUnits\bin\Debug\MethsAndUnits.pdb
+E:\M10266-0331\Labs\MethsAndUnits\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\M10266-0331\Labs\MethsAndUnits\obj\x86\Debug\MethsAndUnits.exe
+E:\M10266-0331\Labs\MethsAndUnits\obj\x86\Debug\MethsAndUnits.pdb
