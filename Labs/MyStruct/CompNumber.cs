@@ -25,5 +25,6 @@ namespace MyStruct
             source.abstr += addition.abstr;
             return source;
         }
+        
     }
 }

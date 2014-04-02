@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fileworks", "Fileworks\File
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStruct", "MyStruct\MyStruct.csproj", "{BA8DCECD-13B2-4AC7-8865-40DDA0B95BBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphObjects", "GraphObjects\GraphObjects.csproj", "{8D77BBEF-314C-4F82-9CA8-BEE14D7965E6}"
+EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution
 		CategoryFile = Labs.vsmdi
@@ -105,6 +107,16 @@ Global
 		{BA8DCECD-13B2-4AC7-8865-40DDA0B95BBD}.Release|Mixed Platforms.Build.0 = Release|x86
 		{BA8DCECD-13B2-4AC7-8865-40DDA0B95BBD}.Release|x86.ActiveCfg = Release|x86
 		{BA8DCECD-13B2-4AC7-8865-40DDA0B95BBD}.Release|x86.Build.0 = Release|x86
+		{8D77BBEF-314C-4F82-9CA8-BEE14D7965E6}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{8D77BBEF-314C-4F82-9CA8-BEE14D7965E6}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{8D77BBEF-314C-4F82-9CA8-BEE14D7965E6}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{8D77BBEF-314C-4F82-9CA8-BEE14D7965E6}.Debug|x86.ActiveCfg = Debug|x86
+		{8D77BBEF-314C-4F82-9CA8-BEE14D7965E6}.Debug|x86.Build.0 = Debug|x86
+		{8D77BBEF-314C-4F82-9CA8-BEE14D7965E6}.Release|Any CPU.ActiveCfg = Release|x86
+		{8D77BBEF-314C-4F82-9CA8-BEE14D7965E6}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{8D77BBEF-314C-4F82-9CA8-BEE14D7965E6}.Release|Mixed Platforms.Build.0 = Release|x86
+		{8D77BBEF-314C-4F82-9CA8-BEE14D7965E6}.Release|x86.ActiveCfg = Release|x86
+		{8D77BBEF-314C-4F82-9CA8-BEE14D7965E6}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -121,5 +133,6 @@ Global
 		{52A66264-8B5B-46C5-AB54-155C9DF0BCE1} = {A0C9C88E-EC26-4360-9BAD-CD02EF4AF4DE}
 		{375EA634-DD8D-4AC2-989A-B0637D04163A} = {0D375A6F-1244-4B9D-AE41-A807C1A8F871}
 		{BA8DCECD-13B2-4AC7-8865-40DDA0B95BBD} = {0D375A6F-1244-4B9D-AE41-A807C1A8F871}
+		{8D77BBEF-314C-4F82-9CA8-BEE14D7965E6} = {0D375A6F-1244-4B9D-AE41-A807C1A8F871}
 	EndGlobalSection
 EndGlobal
