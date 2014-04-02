@@ -1,0 +1,5 @@
+E:\M10266-0331\Tuts\3rdDayConApp\bin\Debug\3rdDayConApp.exe
+E:\M10266-0331\Tuts\3rdDayConApp\bin\Debug\3rdDayConApp.pdb
+E:\M10266-0331\Tuts\3rdDayConApp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\M10266-0331\Tuts\3rdDayConApp\obj\x86\Debug\3rdDayConApp.exe
+E:\M10266-0331\Tuts\3rdDayConApp\obj\x86\Debug\3rdDayConApp.pdb
