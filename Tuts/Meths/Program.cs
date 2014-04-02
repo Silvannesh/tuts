@@ -11,7 +11,7 @@ namespace Meths
         {
 #region For REF
 
-            int a;
+            int a=10;
             ChangeByRef(ref a);
 
 #endregion  
