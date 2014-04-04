@@ -15,6 +15,21 @@ namespace MyStruct
                 this.real = real;
                 this.abstr = abstr;
         }
+
+        public static CompNumber operator +(CompNumber a, CompNumber b)
+        {
+            return new CompNumber((int)a.real + (int)b.abstr, (int)a.abstr + (int)b.abstr);
+        }
+
+        public static bool operator ==(CompNumber a, CompNumber b)
+        {
+            return a.real == b.real && a.abstr == b.abstr;
+        }
+
+        public static bool operator !=(CompNumber a, CompNumber b)
+        {
+            return !(a.real == b.real && a.abstr == b.abstr);
+        }
     }
 
     public static class CNMath
@@ -25,6 +40,11 @@ namespace MyStruct
             source.abstr += addition.abstr;
             return source;
         }
+    }
+    public class OpOver
+    {
+        
+
         
     }
 }
